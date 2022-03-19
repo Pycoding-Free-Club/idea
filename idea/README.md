@@ -1,6 +1,6 @@
 # Idea
 
-This directory have Python Project Ideas. If you have a python project idea, please open an issue or send a PR.
+여기에는 Python 프로젝트 아이디어들이 있는 곳입니다. 이 외에도 Python 프로젝트 아이디어가 있다면 Issue 를 열어주거나 PR 을 날려주시면 고맙겠습니다.
 
 - 웹 크롤링
 - 자동화

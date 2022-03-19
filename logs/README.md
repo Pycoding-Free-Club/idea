@@ -1,7 +1,7 @@
 # Logs
 
-This directory have many logs. The Log files have a content of activity. Please do not change this directory because this content must not change.
+이곳은 Pycoding Free Club 에 대한 날짜마다 무엇을 배웠고, 무엇을 하였는지에 대한 활동이 있습니다.
 
-Shortcut
+바로가기
 
 - [First Activity](./1.md)
